@@ -1,0 +1,1 @@
+export const DEPLOYED_SERVER_URL = 'http://kaboom.rksv.net'
