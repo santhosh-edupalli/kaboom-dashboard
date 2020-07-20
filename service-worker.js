@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kaboom-dashboard/precache-manifest.2a8d90f508192373f042746ec5f23b49.js"
+  "/kaboom-dashboard/precache-manifest.f0e91d278e928100cce5dddf40a7540f.js"
 );
 
 self.addEventListener('message', (event) => {

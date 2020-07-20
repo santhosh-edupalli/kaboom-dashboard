@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5ba90307d771734b5a5d472654951f5",
+    "revision": "9f8fd21ad6490bad715c8a41ff6ffc60",
     "url": "/kaboom-dashboard/index.html"
   },
   {
