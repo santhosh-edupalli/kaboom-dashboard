@@ -1,4 +1,4 @@
-This application has been deployed on 
+This application has been deployed on http://13.233.167.157:8080/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
