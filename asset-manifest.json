@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kaboom-dashboard/static/css/main.204c71e0.chunk.css",
+    "main.js": "/kaboom-dashboard/static/js/main.c4cfb8e7.chunk.js",
+    "main.js.map": "/kaboom-dashboard/static/js/main.c4cfb8e7.chunk.js.map",
+    "runtime-main.js": "/kaboom-dashboard/static/js/runtime-main.f46c0eee.js",
+    "runtime-main.js.map": "/kaboom-dashboard/static/js/runtime-main.f46c0eee.js.map",
+    "static/css/2.f87e9f44.chunk.css": "/kaboom-dashboard/static/css/2.f87e9f44.chunk.css",
+    "static/js/2.7632ab6a.chunk.js": "/kaboom-dashboard/static/js/2.7632ab6a.chunk.js",
+    "static/js/2.7632ab6a.chunk.js.map": "/kaboom-dashboard/static/js/2.7632ab6a.chunk.js.map",
+    "index.html": "/kaboom-dashboard/index.html",
+    "precache-manifest.2a8d90f508192373f042746ec5f23b49.js": "/kaboom-dashboard/precache-manifest.2a8d90f508192373f042746ec5f23b49.js",
+    "service-worker.js": "/kaboom-dashboard/service-worker.js",
+    "static/css/2.f87e9f44.chunk.css.map": "/kaboom-dashboard/static/css/2.f87e9f44.chunk.css.map",
+    "static/css/main.204c71e0.chunk.css.map": "/kaboom-dashboard/static/css/main.204c71e0.chunk.css.map",
+    "static/js/2.7632ab6a.chunk.js.LICENSE.txt": "/kaboom-dashboard/static/js/2.7632ab6a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kaboom-dashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f46c0eee.js",
+    "static/css/2.f87e9f44.chunk.css",
+    "static/js/2.7632ab6a.chunk.js",
+    "static/css/main.204c71e0.chunk.css",
+    "static/js/main.c4cfb8e7.chunk.js"
+  ]
+}
